@@ -8,3 +8,5 @@ PROBLEM SOLVING APPROACH
 3. Model deployment to predict individual profit potential and rank customers by profit 
 
 This notebook includes the process of model development to predict the sum of profit from each customer. 
+For the first two phases of the entire project, check out https://public.tableau.com/app/profile/jonathan.au6338/viz/KPMG_CaseStudy/Dashboard2.
+
